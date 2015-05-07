@@ -1,0 +1,31 @@
+{
+  "name": "12env",
+  "version": "1.0.0",
+  "description": "Retrieve configuration from environment (process.env by default) for 12Factor node applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kentprimrose/12env"
+  },
+  "keywords": [
+    "12factor",
+    "environment",
+    "env",
+    "config",
+    "configuration",
+    "docker"
+  ],
+  "author": "Kent Primrose <KPrimrose@TheOpenWay.com> (http://KentPrimrose.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentprimrose/12env/issues"
+  },
+  "homepage": "https://github.com/kentprimrose/12env",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  }
+}
