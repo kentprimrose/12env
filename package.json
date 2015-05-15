@@ -1,7 +1,7 @@
 {
   "name": "12env",
   "version": "1.0.0",
-  "description": "Retrieve configuration from environment (process.env by default) for 12Factor node applications.",
+  "description": "Retrieve configuration from environment for 12Factor node applications.",
   "main": "index.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha"
